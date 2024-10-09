@@ -163,6 +163,10 @@ cython_debug/
 =======
 *.log
 *.ipynb_checkpoints/
+.DS_Store
 .Trash/
+<<<<<<< HEAD
 
 >>>>>>> 8b59ea1 (Add .gitignore to ignore untracked files)
+=======
+>>>>>>> 6122ffb (Update .gitignore to ignore system files)
