@@ -163,5 +163,6 @@ cython_debug/
 =======
 *.log
 *.ipynb_checkpoints/
+.Trash/
 
 >>>>>>> 8b59ea1 (Add .gitignore to ignore untracked files)
