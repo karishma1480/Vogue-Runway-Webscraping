@@ -31,3 +31,7 @@ I configured Chrome WebDriver and automated login to Vogue, then navigated to th
 - I avoided headless mode to simplify debugging and prevent element rendering issues, and skipped parallel requests to avoid triggering anti-scraping mechanisms.
 - Images were resized to uniform dimensions using PIL/Pillow during download, and set-based URL tracking prevented duplicate downloads when encountering repeated image sets.
 
+## Next Steps - Trend Forecasting
+
+​In Phase 2, the scraped images will be preprocessed for uniformity, and key fashion features such as colors, patterns, and silhouettes will be extracted using machine learning models. The data will be annotated and analyzed to identify patterns and trends across seasons and brands. Finally, Python will be used to forecast future trends based on the extracted data and analysis.
+
